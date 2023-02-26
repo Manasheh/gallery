@@ -56,7 +56,7 @@ button:disabled {
     text-align: center;
 }
 @media only screen and (max-width:600px) {
-    .container img {
+    .swiper-slide {
         /* display: none; */
         object-fit: cover;
         background-position: center;
