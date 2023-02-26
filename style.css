@@ -57,10 +57,8 @@ button:disabled {
 }
 @media only screen and (max-width:560px) {
     .swiper-slide {
-        object-fit: cover;
-        zoom:70%;
-        margin:auto;
-        height: 500px;
+        background:no-repeat center center fixed;
+       
         
     }
  
