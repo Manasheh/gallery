@@ -59,7 +59,7 @@ button:disabled {
     .swiper-slide {
         background:no-repeat center center fixed;
         object-fit: cover;
-        
+        width: 100vw;
     }
  
 }
